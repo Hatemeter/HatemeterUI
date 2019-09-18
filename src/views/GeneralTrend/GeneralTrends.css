@@ -1,0 +1,46 @@
+@media (min-width: 992px) {
+    .aside-menu-fixed .aside-menu .tab-content {
+        height: calc(100vh - 2.375rem - 15px);
+    }
+}
+
+.app-body .aside-menu {
+    -ms-flex: 0 0 300px;
+    flex: 0 0 300px;
+}
+
+.aside-menu {
+    z-index: 1019;
+    width: 300px;
+    color: #2f353a;
+    background: #fff;
+    border-left: 1px solid #c8ced3;
+}
+
+html:not([dir="rtl"]) .aside-menu-show.aside-menu-fixed .main, html:not([dir="rtl"]) .aside-menu-show.aside-menu-fixed .app-footer,
+html:not([dir="rtl"]) .aside-menu-lg-show.aside-menu-fixed .main, html:not([dir="rtl"]) .aside-menu-lg-show.aside-menu-fixed .app-footer{
+    margin-right: 300px;
+}
+
+html:not([dir="rtl"]) .aside-menu {
+    margin-right: -300px;
+}
+
+.tweetMsgBox small{
+    cursor: pointer;
+}
+
+.tweetMsgBox:hover{
+    background-color: #f6f6f6;
+}
+
+.text-muted {
+    color: #5d5f60 !important;
+}
+.tweetReplyCN{
+    float: right;
+    font-size: 1.4em;
+    margin-left: 20px;
+    color: #1095a2;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.graphcontainer {
+    height: 35vw;
+}
+
+@font-face {
+    font-family: gnuolane;
+    src: local("Gnuolane"),
+    local("Gnuolane normal"),
+    url(assets/fonts/gnuolane_free.ttf);
+}
+

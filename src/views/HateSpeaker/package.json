@@ -1,0 +1,6 @@
+{
+  "name": "hateSpeaker",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./HateSpeaker.js"
+}

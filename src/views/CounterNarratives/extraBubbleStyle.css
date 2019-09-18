@@ -1,0 +1,11 @@
+.bubbleContent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bubbleButtons{
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    justify-content: flex-start;
+}

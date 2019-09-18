@@ -1,0 +1,6 @@
+{
+  "name": "GeneralTrends",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./GeneralTrends.js"
+}

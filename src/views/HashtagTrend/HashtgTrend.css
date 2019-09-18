@@ -1,0 +1,11 @@
+.retweetCount{
+    font-weight: bold;
+}
+.tweeterData{
+    font-style: italic;
+    color: #6a6a6a;
+}
+
+.topRetweetBox{
+    margin-bottom: 15px;
+}
